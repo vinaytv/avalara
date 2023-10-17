@@ -13,3 +13,7 @@ The following was discovered as part of building this project:
 ### Build and Run 
 * Build the project using maven clean install
 * Run Application using Java main file AssessmentApplication.java file.
+
+### Pipeline
+
+* Jenkins pipeline is created which will run unit tests , compile code, build and push docker image.
